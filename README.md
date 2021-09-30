@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**muh2k/muh2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Hey I'm currently a developer working on discord bots in discord.js v13
 
 
