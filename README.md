@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://hit.yhype.me/github/profile?account_id=71465760)
-![](https://komarev.com/ghpvc/?mu2hk&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=mu2hk&color=blueviolet)
 ## Hey I'm currently a developer currently studying software devlopment
 
 ## I usually code in two languages
