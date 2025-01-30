@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://hit.yhype.me/github/profile?account_id=71465760)
 
 ## Hey I'm currently a developer currently studying software devlopment
 
